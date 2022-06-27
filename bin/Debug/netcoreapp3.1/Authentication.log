@@ -1,0 +1,164 @@
+INFO  07:15:26 Application started. Press Ctrl+C to shut down.
+INFO  07:15:26 Application started. Press Ctrl+C to shut down.
+INFO  07:15:26 Hosting environment: Development
+INFO  07:15:26 Hosting environment: Development
+INFO  07:15:26 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\Authorization
+INFO  07:15:26 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\Authorization
+INFO  07:26:51 Login method invoked, Username : Saras
+INFO  07:26:52 CheckCredential method invoked.
+ERROR 07:26:58 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 07:26:58 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  07:28:51 Application started. Press Ctrl+C to shut down.
+INFO  07:28:51 Application started. Press Ctrl+C to shut down.
+INFO  07:28:51 Hosting environment: Development
+INFO  07:28:51 Hosting environment: Development
+INFO  07:28:51 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\Authorization
+INFO  07:28:51 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\Authorization
+INFO  07:30:26 Login method invoked, Username : Saras
+INFO  07:30:26 CheckCredential method invoked.
+ERROR 07:30:32 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 07:30:32 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  08:06:18 Application started. Press Ctrl+C to shut down.
+INFO  08:06:18 Application started. Press Ctrl+C to shut down.
+INFO  08:06:18 Hosting environment: Development
+INFO  08:06:18 Hosting environment: Development
+INFO  08:06:18 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\Authorization
+INFO  08:06:18 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\Authorization
+INFO  08:08:12 Login method invoked, Username : Saras
+INFO  08:08:15 CheckCredential method invoked.
+ERROR 08:08:20 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 08:08:20 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  08:21:35 Application started. Press Ctrl+C to shut down.
+INFO  08:21:35 Application started. Press Ctrl+C to shut down.
+INFO  08:21:35 Hosting environment: Development
+INFO  08:21:35 Hosting environment: Development
+INFO  08:21:35 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\Authorization
+INFO  08:21:35 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\Authorization
+INFO  08:31:30 Login method invoked, Username : Saras
+INFO  08:31:30 CheckCredential method invoked.
+INFO  08:44:48 Login method invoked, Username : jack432
+INFO  08:44:48 CheckCredential method invoked.
+INFO  08:50:28 Login method invoked, Username : jack432
+INFO  08:50:28 CheckCredential method invoked.
+INFO  11:20:12 Application started. Press Ctrl+C to shut down.
+INFO  11:20:12 Application started. Press Ctrl+C to shut down.
+INFO  11:20:12 Hosting environment: Development
+INFO  11:20:12 Hosting environment: Development
+INFO  11:20:12 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\Authorization
+INFO  11:20:12 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\Authorization
+INFO  11:26:47 Login method invoked, Username : Saras
+INFO  11:26:47 CheckCredential method invoked.
+INFO  11:26:48 Login method invoked, Username : Saras
+INFO  11:26:48 CheckCredential method invoked.
+INFO  11:30:29 Login method invoked, Username : Saras
+INFO  11:30:29 CheckCredential method invoked.
+INFO  11:30:38 Login method invoked, Username : Saras
+INFO  11:30:38 CheckCredential method invoked.
+INFO  11:32:22 Login method invoked, Username : Saras
+INFO  11:32:22 CheckCredential method invoked.
+INFO  11:53:31 Login method invoked, Username : Saras
+INFO  11:53:31 CheckCredential method invoked.
+INFO  11:57:16 Login method invoked, Username : Saras
+INFO  11:57:16 CheckCredential method invoked.
+INFO  12:26:00 Login method invoked, Username : Saras
+INFO  12:26:00 CheckCredential method invoked.
+INFO  12:29:09 Login method invoked, Username : Saras
+INFO  12:29:09 CheckCredential method invoked.
+INFO  12:30:38 Login method invoked, Username : Saras
+INFO  12:30:38 CheckCredential method invoked.
+INFO  12:32:08 Login method invoked, Username : Saras
+INFO  12:32:08 CheckCredential method invoked.
+INFO  12:32:56 Login method invoked, Username : Saras
+INFO  12:32:56 CheckCredential method invoked.
+INFO  12:35:02 Login method invoked, Username : Saras
+INFO  12:35:02 CheckCredential method invoked.
+INFO  12:37:17 Login method invoked, Username : Saras
+INFO  12:37:17 CheckCredential method invoked.
+INFO  12:41:22 Login method invoked, Username : Saras
+INFO  12:41:22 CheckCredential method invoked.
+INFO  12:44:00 Login method invoked, Username : Saras
+INFO  12:44:00 CheckCredential method invoked.
+INFO  12:48:32 Login method invoked, Username : Saras
+INFO  12:48:32 CheckCredential method invoked.
+INFO  12:53:45 Login method invoked, Username : Saras
+INFO  12:53:45 CheckCredential method invoked.
+INFO  11:33:15 Application started. Press Ctrl+C to shut down.
+INFO  11:33:15 Application started. Press Ctrl+C to shut down.
+INFO  11:33:15 Hosting environment: Development
+INFO  11:33:15 Hosting environment: Development
+INFO  11:33:15 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\Authorization
+INFO  11:33:15 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\Authorization
+INFO  11:37:13 Login method invoked, Username : Saras
+INFO  11:37:13 CheckCredential method invoked.
+INFO  11:48:01 Login method invoked, Username : Saras
+INFO  11:48:01 CheckCredential method invoked.
+INFO  11:55:42 Login method invoked, Username : Saras
+INFO  11:55:42 CheckCredential method invoked.
+INFO  12:05:48 Login method invoked, Username : Saras
+INFO  12:05:48 CheckCredential method invoked.
+INFO  12:07:57 Login method invoked, Username : Saras
+INFO  12:07:57 CheckCredential method invoked.
+INFO  12:13:00 Login method invoked, Username : Saras
+INFO  12:13:00 CheckCredential method invoked.
+INFO  12:16:17 Login method invoked, Username : Syed
+INFO  12:16:17 CheckCredential method invoked.
+INFO  02:31:30 Application started. Press Ctrl+C to shut down.
+INFO  02:31:30 Application started. Press Ctrl+C to shut down.
+INFO  02:31:30 Hosting environment: Development
+INFO  02:31:30 Hosting environment: Development
+INFO  02:31:30 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\Authorization
+INFO  02:31:30 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\Authorization
+INFO  02:31:58 Login method invoked, Username : Saras
+INFO  02:31:58 CheckCredential method invoked.
+ERROR 02:32:04 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 02:32:04 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  02:33:59 Application started. Press Ctrl+C to shut down.
+INFO  02:33:59 Application started. Press Ctrl+C to shut down.
+INFO  02:33:59 Hosting environment: Development
+INFO  02:33:59 Hosting environment: Development
+INFO  02:33:59 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\Authorization
+INFO  02:33:59 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\Authorization
+INFO  02:36:23 Login method invoked, Username : Saras
+INFO  02:36:23 CheckCredential method invoked.
+ERROR 02:36:27 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 02:36:27 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  02:37:14 Login method invoked, Username : Saras
+INFO  02:37:14 CheckCredential method invoked.
+ERROR 02:37:18 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 02:37:18 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  03:50:19 Login method invoked, Username : Saras
+INFO  03:50:19 CheckCredential method invoked.
+INFO  03:53:42 Login method invoked, Username : Saras
+INFO  03:53:42 CheckCredential method invoked.
+INFO  04:01:14 Login method invoked, Username : Saras
+INFO  04:01:14 CheckCredential method invoked.
+INFO  04:04:58 Login method invoked, Username : Anonym
+INFO  04:04:58 CheckCredential method invoked.
+INFO  04:15:40 Application started. Press Ctrl+C to shut down.
+INFO  04:15:40 Application started. Press Ctrl+C to shut down.
+INFO  04:15:40 Hosting environment: Development
+INFO  04:15:40 Hosting environment: Development
+INFO  04:15:40 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\Authorization
+INFO  04:15:40 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\Authorization
+INFO  04:18:51 Application started. Press Ctrl+C to shut down.
+INFO  04:18:51 Application started. Press Ctrl+C to shut down.
+INFO  04:18:51 Hosting environment: Development
+INFO  04:18:51 Hosting environment: Development
+INFO  04:18:51 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\Authorization
+INFO  04:18:51 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\Authorization
+INFO  04:21:02 Application started. Press Ctrl+C to shut down.
+INFO  04:21:03 Application started. Press Ctrl+C to shut down.
+INFO  04:21:03 Hosting environment: Development
+INFO  04:21:03 Hosting environment: Development
+INFO  04:21:03 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\Authorization
+INFO  04:21:03 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\Authorization
+INFO  04:24:42 Application started. Press Ctrl+C to shut down.
+INFO  04:24:42 Application started. Press Ctrl+C to shut down.
+INFO  04:24:42 Hosting environment: Development
+INFO  04:24:42 Hosting environment: Development
+INFO  04:24:42 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\Authorization
+INFO  04:24:42 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\Authorization
+INFO  04:34:48 Login method invoked, Username : Saras
+INFO  04:34:48 CheckCredential method invoked.
+ERROR 04:34:52 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 04:34:52 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
